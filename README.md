@@ -1,2 +1,2 @@
 # GYM-jimnesiam
-This is a fully responsive GYM website, Responsive for all devices,buil using HTML,CSS,Javascript
+### Live Demo : https://raihan51674.github.io/GYM-jimnesiam/
